@@ -19,6 +19,7 @@ See the Documentation: https://docs.tuncion.de/scripts/fivem-helper-api
 
 # Features
 - [x] Stamp-Clock (Stamp In/Out, Previous Stamps)
+- [ ] Panic System
 - [ ] Invite new Member
 - [ ] Fraction-Management (Change Fraction Name, Change Fraction Logo, Kick/Uprank/Derank Members, Manage Grades)
 
